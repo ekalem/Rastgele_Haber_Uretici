@@ -1,0 +1,2 @@
+# Rastgele_Haber_Uretici
+Rastgele_Haber_Uretici
