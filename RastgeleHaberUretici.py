@@ -28,7 +28,7 @@ class Uretici: # Uretici isimli bir sınıf oluşturulur.
     def uret_soyisim(self):
         soyisimler = [
             "Demir",
-            "Taş",
+            "Ömer",
             "Burton",
             "Farrell",
             "Taş",
