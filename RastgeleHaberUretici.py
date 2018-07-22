@@ -28,7 +28,7 @@ class Uretici: # Uretici isimli bir sınıf oluşturulur.
     def uret_soyisim(self):
         soyisimler = [
             "Demir",
-            "Ömer",
+            "Taş",
             "Burton",
             "Farrell",
             "Taş",
@@ -56,3 +56,5 @@ class Uretici: # Uretici isimli bir sınıf oluşturulur.
             self.uret_soyisim(),
             random.randint(0,100)
         )
+
+print(Uretici().uret())
